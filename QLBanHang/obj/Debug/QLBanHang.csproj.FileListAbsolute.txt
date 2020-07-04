@@ -1,1 +1,10 @@
 D:\QLBanHang\QLBanHang\bin\Debug\QLBanHang.exe.config
+D:\QLBanHang\QLBanHang\bin\Debug\QLBanHang.exe
+D:\QLBanHang\QLBanHang\bin\Debug\QLBanHang.pdb
+D:\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csprojResolveAssemblyReference.cache
+D:\QLBanHang\QLBanHang\obj\Debug\QLBanHang.Form1.resources
+D:\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmDMChatLieu.resources
+D:\QLBanHang\QLBanHang\obj\Debug\QLBanHang.Properties.Resources.resources
+D:\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csproj.GenerateResource.Cache
+D:\QLBanHang\QLBanHang\obj\Debug\QLBanHang.exe
+D:\QLBanHang\QLBanHang\obj\Debug\QLBanHang.pdb
